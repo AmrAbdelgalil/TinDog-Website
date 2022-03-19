@@ -174,7 +174,11 @@ p {
   margin: 200px;
 }
 
-.icon {
-  color: black;
+.social-icon {
+  color: #ef8172;
   margin: 20px;
+}
+
+.social-icon:hover {
+  color: #ff4c68;
 }
